@@ -1,0 +1,3 @@
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/BTree.h
+BTreeNode.h
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/BTreeNode.h
+iostream
+-
+clocale
+-
+
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/BTreeNode.cpp
+iostream
+-
+BTreeNode.h
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/BTreeNode.h
+
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/BTreeNode.h
+
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/main.cpp
+iostream
+-
+BTree.h
+/home/kei98/CLionProjects/Datos/Datos II/DataStructure/BTree.h
+

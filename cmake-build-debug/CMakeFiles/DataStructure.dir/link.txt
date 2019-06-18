@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DataStructure.dir/main.cpp.o CMakeFiles/DataStructure.dir/BTree.cpp.o CMakeFiles/DataStructure.dir/BTreeNode.cpp.o  -o DataStructure 
